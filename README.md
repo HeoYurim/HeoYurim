@@ -22,7 +22,7 @@
 <h3 align="center">🎈Enjoy🎈</h3>
 <div align="center">
   <a href="https://github.com/HeoYurim" target="_blank"><img src="https://img.shields.io/badge/GitHub-0080FF?style=flat&logo=GitHub&logoColor=181717"/>
-  <img src="https://img.shields.io/badge/Instagram-2E9AFE?style=flat&logo=Instagram&logoColor=E4405F"/>
+  <a href="https://www.instagram.com/yurryme" target="_blank"><img src="https://img.shields.io/badge/Instagram-2E9AFE?style=flat&logo=Instagram&logoColor=E4405F"/>
   <img src="https://img.shields.io/badge/WEBTOON-58ACFA?style=flat&logo=WEBTOON&logoColor=00D564"/>
   <img src="https://img.shields.io/badge/YouTube-81BEF7?style=flat&logo=YouTube&logoColor=FF0000"/>
   <img src="https://img.shields.io/badge/Duolingo-A9D0F5?style=flat&logo=Duolingo&logoColor=58CC02"/>
