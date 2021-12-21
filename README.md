@@ -3,7 +3,7 @@
 </div>
 <h3 align="center">Hi there 👋 </h3>
 <hr>
-<h3 align="center">📚Learning📚</h3>
+<h3 align="center">📚Learned📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-DF3A01?style=flat&logo=Java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-FF4000?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/Apache Tomcat-F7D358?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/>
   <img src="https://img.shields.io/badge/OpenGL-F5DA81?style=flat&logo=OpenGL&logoColor=5586A4"/>
   <img src="https://img.shields.io/badge/Firebase-F3E2A9?style=flat&logo=Firebase&logoColor=FFCA28"/>
+</div>
+<hr>
+<h3 align="center">💻Learning📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-199900?style=flat&logo=Kotlin&logoColor=7F52FF"/>
 </div>
 <hr>
 <h3 align="center">🎈Enjoy🎈</h3>
