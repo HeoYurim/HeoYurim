@@ -14,20 +14,20 @@
 <hr>
 <h3 align="center">📚DB Learned📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/MySQL-FACC2E?style=flat&logo=MySQL&logoColor=4479A1"/>
-  <img src="https://img.shields.io/badge/Firebase-F3E2A9?style=flat&logo=Firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/MySQL-FF9473?style=flat&logo=MySQL&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Firebase-FFB788?style=flat&logo=Firebase&logoColor=FFCA28"/>
 </div>
 <hr>
 <h3 align="center">✔IDE & Server Used✔</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=VMware&logoColor=2C2255"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-FF4000?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
-  <img src="https://img.shields.io/badge/Visual Studio-FE642E?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
-  <img src="https://img.shields.io/badge/Android Studio-3359DF?style=flat&logo=Android Studio&logoColor=5C2D91"/>
-  <img src="https://img.shields.io/badge/Jupyter-F5BCA9?style=flat&logo=Jupyter&logoColor=F37626"/>
-  <img src="https://img.shields.io/badge/Google Colab-F6D8CE?style=flat&logo=Google Colab&logoColor=F9AB00"/>
-  <img src="https://img.shields.io/badge/Apache Tomcat-F7D358?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/>
-  <img src="https://img.shields.io/badge/OpenGL-F5DA81?style=flat&logo=OpenGL&logoColor=5586A4"/>
+    <img src="https://img.shields.io/badge/VMware-FF9100?style=flat&logo=VMware&logoColor=2C2255"/>
+  <img src="https://img.shields.io/badge/Eclipse IDE-FFAF0A?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
+  <img src="https://img.shields.io/badge/Visual Studio-FFC314?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
+  <img src="https://img.shields.io/badge/Android Studio-FFD228?style=flat&logo=Android Studio&logoColor=5C2D91"/>
+  <img src="https://img.shields.io/badge/Jupyter-FFE146?style=flat&logo=Jupyter&logoColor=F37626"/>
+  <img src="https://img.shields.io/badge/Google Colab-FFEB5A?style=flat&logo=Google Colab&logoColor=F9AB00"/>
+  <img src="https://img.shields.io/badge/Apache Tomcat-FAEB78?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/>
+  <img src="https://img.shields.io/badge/OpenGL-FAFAA0?style=flat&logo=OpenGL&logoColor=5586A4"/>
 </div>
 <hr>
 <h3 align="center">💻Learning📚</h3>
