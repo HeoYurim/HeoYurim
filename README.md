@@ -12,13 +12,11 @@
   <img src="https://img.shields.io/badge/HTML5-F8E6E0?style=flat&logo=HTML5&logoColor=E34F26"/></br>
 </div>
 <hr>
-<hr>
 <h3 align="center">📚DB Learned📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-FACC2E?style=flat&logo=MySQL&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/Firebase-F3E2A9?style=flat&logo=Firebase&logoColor=FFCA28"/>
 </div>
-<hr>
 <hr>
 <h3 align="center">✔IDE & Server Used✔</h3>
 <div align="center">
