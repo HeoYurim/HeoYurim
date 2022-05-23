@@ -3,20 +3,31 @@
 </div>
 <h3 align="center">Hi there 👋 </h3>
 <hr>
-<h3 align="center">📚Learned📚</h3>
+<h3 align="center">📚Language Learned📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-DF3A01?style=flat&logo=Java&logoColor=007396"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-FF4000?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
-  <img src="https://img.shields.io/badge/Visual Studio-FE642E?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-FA8258?style=flat&logo=Android&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/Linux-F79F81?style=flat&logo=Linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/HTML5-F8E6E0?style=flat&logo=HTML5&logoColor=E34F26"/></br>
+</div>
+<hr>
+<hr>
+<h3 align="center">📚DB Learned📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-FACC2E?style=flat&logo=MySQL&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Firebase-F3E2A9?style=flat&logo=Firebase&logoColor=FFCA28"/>
+</div>
+<hr>
+<hr>
+<h3 align="center">✔IDE & Server Used✔</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Eclipse IDE-FF4000?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
+  <img src="https://img.shields.io/badge/Visual Studio-FE642E?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
   <img src="https://img.shields.io/badge/Jupyter-F5BCA9?style=flat&logo=Jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Google Colab-F6D8CE?style=flat&logo=Google Colab&logoColor=F9AB00"/>
-  <img src="https://img.shields.io/badge/HTML5-F8E6E0?style=flat&logo=HTML5&logoColor=E34F26"/></br>
-  <img src="https://img.shields.io/badge/MySQL-FACC2E?style=flat&logo=MySQL&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F7D358?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/>
   <img src="https://img.shields.io/badge/OpenGL-F5DA81?style=flat&logo=OpenGL&logoColor=5586A4"/>
-  <img src="https://img.shields.io/badge/Firebase-F3E2A9?style=flat&logo=Firebase&logoColor=FFCA28"/>
 </div>
 <hr>
 <h3 align="center">💻Learning📚</h3>
