@@ -22,6 +22,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse IDE-FF4000?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
   <img src="https://img.shields.io/badge/Visual Studio-FE642E?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
+  <img src="https://img.shields.io/badge/Android Studio-3359DF?style=flat&logo=Android Studio&logoColor=5C2D91"/>
   <img src="https://img.shields.io/badge/Jupyter-F5BCA9?style=flat&logo=Jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Google Colab-F6D8CE?style=flat&logo=Google Colab&logoColor=F9AB00"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-F7D358?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/>
