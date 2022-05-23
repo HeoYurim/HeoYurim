@@ -5,7 +5,7 @@
 <hr>
 <h3 align="center">📚Language Learned📚</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-DF3A01?style=flat&logo=Java&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/Java-FF5675?style=flat&logo=Java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=A8B9CC"/>
   <img src="https://img.shields.io/badge/Android-FA8258?style=flat&logo=Android&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/Linux-F79F81?style=flat&logo=Linux&logoColor=FCC624"/>
