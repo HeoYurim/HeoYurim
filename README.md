@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-199900?style=flat&logo=Kotlin&logoColor=7F52FF"/>
 </div>
-<hr>
+<hr> 
 <h3 align="center">🎈Enjoy🎈</h3>
 <div align="center">
   <a href="https://github.com/HeoYurim" target="_blank"><img src="https://img.shields.io/badge/GitHub-0080FF?style=flat&logo=GitHub&logoColor=181717"/>
