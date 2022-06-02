@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-FF9473?style=flat&logo=MySQL&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/Firebase-FFB788?style=flat&logo=Firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Oracle-FFBDA3?style=flat&logo=Oracle&logoColor=F80000"/>
 </div>
 <hr>
 <h3 align="center">✔IDE & Server Used✔</h3>
