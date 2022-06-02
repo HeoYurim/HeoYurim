@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/VMware-FF9100?style=flat&logo=VMware&logoColor=2C2255"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-FFAF0A?style=flat&logo=Eclipse IDE&logoColor=2C2255"/>
   <img src="https://img.shields.io/badge/Visual Studio-FFC314?style=flat&logo=Visual Studio&logoColor=5C2D91"/>
-  <img src="https://img.shields.io/badge/Android Studio-FFD228?style=flat&logo=Android Studio&logoColor=5C2D91"/>
+  <img src="https://img.shields.io/badge/Android Studio-FFD228?style=flat&logo=Android Studio&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/Jupyter-FFE146?style=flat&logo=Jupyter&logoColor=F37626"/>
   <img src="https://img.shields.io/badge/Google Colab-FFEB5A?style=flat&logo=Google Colab&logoColor=F9AB00"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-FAEB78?style=flat&logo=Apache Tomcat&logoColor=F8DC75"/>
