@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Android-FFB2AF?style=flat&logo=Android&logoColor=3DDC84"/>
   <img src="https://img.shields.io/badge/Linux-FFC8CD?style=flat&logo=Linux&logoColor=FCC624"/>
   <img src="https://img.shields.io/badge/HTML5-FFE3EE?style=flat&logo=HTML5&logoColor=E34F26"/></br>
+  <img src="https://img.shields.io/badge/CSS3-FFE6EB?style=flat&logo=CSS3&logoColor=1572B6"/></br>
 </div>
 <hr>
 <h3 align="center">📚DB Learned📚</h3>
