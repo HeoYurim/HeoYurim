@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/Java-FF5675?style=flat&logo=Java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/C-FF848F?style=flat-square&logo=C&logoColor=A8B9CC"/>
   <img src="https://img.shields.io/badge/Android-FFB2AF?style=flat&logo=Android&logoColor=3DDC84"/>
-  <img src="https://img.shields.io/badge/Linux-FFC8CD?style=flat&logo=Linux&logoColor=FCC624"/></br>
+  <img src="https://img.shields.io/badge/Linux-FFC8CD?style=flat&logo=Linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Python-FFD2D7?style=flat&logo=Python&logoColor=3776AB"/>
+  </br>
   <img src="https://img.shields.io/badge/HTML5-FFE3EE?style=flat&logo=HTML5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-FFE6EB?style=flat&logo=CSS3&logoColor=1572B6"/></br>
 </div>
